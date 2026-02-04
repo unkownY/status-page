@@ -1,0 +1,20 @@
+[
+  {
+    "name": "lazy-people",
+    "url": "https://lazy-people.com",
+    "icon": "https://lazy-people.com/favicon.ico",
+    "slug": "lazy-people",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 147,
+    "timeDay": 147,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
+    "dailyMinutesDown": {}
+  }
+]
