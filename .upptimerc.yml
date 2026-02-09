@@ -12,7 +12,7 @@ status-website:
 
   # cname: demo.upptime.js.org
   name: lazy-status
-  baseUrl: /lazy-status
+  baseUrl: /
   logoUrl: https://lazy-people.com/favicon.ico
   navbar:
     - title: Status
