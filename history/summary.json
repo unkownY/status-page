@@ -1,7 +1,7 @@
 [
   {
     "name": "lazy-people",
-    "url": "https://lazy-people.com",
+    "url": "https://status.lazy-people.com",
     "icon": "https://lazy-people.com/favicon.ico",
     "slug": "lazy-people",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 197,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "time": 215,
+    "timeDay": 179,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   }
 ]
